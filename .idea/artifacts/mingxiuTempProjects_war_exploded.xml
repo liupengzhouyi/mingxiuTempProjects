@@ -7,6 +7,10 @@
         <element id="directory" name="classes">
           <element id="module-output" name="mingxiuTempProjects" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Struts 2-2.5.14.1" />
+          <element id="library" level="project" name="javassist:javassist:3.12.1.GA" />
+        </element>
       </element>
     </root>
   </artifact>
