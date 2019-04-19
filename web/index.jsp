@@ -11,7 +11,9 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <a href="/ImageUpload/JSPFile/index.jsp">
+    $END$
+  </a>
   </body>
 </html>
 

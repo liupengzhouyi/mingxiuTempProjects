@@ -30,6 +30,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 9.0.14" level="application_server_libraries" />
     <orderEntry type="library" exported="" name="Struts 2-2.5.14.1" level="project" />
-    <orderEntry type="library" name="javassist:javassist:3.12.1.GA" level="project" />
+    <orderEntry type="library" exported="" name="javassist:javassist:3.12.1.GA" level="project" />
   </component>
 </module>
